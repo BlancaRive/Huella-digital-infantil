@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700">
+<rect width="1000" height="700" rx="36" fill="#f8fbf8"/>
+<text x="70" y="85" font-family="Arial" font-size="42" font-weight="700" fill="#214532">PAUSA Y PREGUNTA</text>
+<text x="70" y="125" font-family="Arial" font-size="22" fill="#65736b">Antes de ofrecer una pantalla a un niño pequeño</text>
+<g font-family="Arial">
+<circle cx="110" cy="210" r="35" fill="#315c43"/><text x="99" y="219" font-size="22" fill="white">1</text>
+<text x="170" y="205" font-size="27" font-weight="700" fill="#24312a">¿Es apropiado para su edad?</text>
+<text x="170" y="235" font-size="19" fill="#65736b">Considera desarrollo, intereses y necesidades.</text>
+<circle cx="110" cy="315" r="35" fill="#315c43"/><text x="99" y="324" font-size="22" fill="white">2</text>
+<text x="170" y="310" font-size="27" font-weight="700" fill="#24312a">¿Qué propósito tiene?</text>
+<text x="170" y="340" font-size="19" fill="#65736b">Define qué quieres que explore, cree o aprenda.</text>
+<circle cx="110" cy="420" r="35" fill="#315c43"/><text x="99" y="429" font-size="22" fill="white">3</text>
+<text x="170" y="415" font-size="27" font-weight="700" fill="#24312a">¿Qué contenido ofrece?</text>
+<text x="170" y="445" font-size="19" fill="#65736b">Revísalo antes y comprueba si es seguro y pertinente.</text>
+<circle cx="110" cy="525" r="35" fill="#315c43"/><text x="99" y="534" font-size="22" fill="white">4</text>
+<text x="170" y="520" font-size="27" font-weight="700" fill="#24312a">¿Puedo acompañarlo?</text>
+<text x="170" y="550" font-size="19" fill="#65736b">La conversación convierte la pantalla en una experiencia compartida.</text>
+<circle cx="110" cy="630" r="35" fill="#f4c95d"/><text x="99" y="639" font-size="22" fill="#214532">5</text>
+<text x="170" y="625" font-size="27" font-weight="700" fill="#24312a">¿Qué está reemplazando?</text>
+<text x="170" y="655" font-size="19" fill="#65736b">Juego, descanso, movimiento, lectura y convivencia también importan.</text>
+</g></svg>

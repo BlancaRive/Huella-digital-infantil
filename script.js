@@ -1,0 +1,16 @@
+
+document.addEventListener("DOMContentLoaded", () => {
+  const year = document.querySelectorAll("[data-year]");
+  year.forEach(el => el.textContent = new Date().getFullYear());
+
+  document.querySelectorAll('a[href^="#"]').forEach(link => {
+    link.addEventListener("click", e => {
+      const id = link.getAttribute("href");
+      const target = document.querySelector(id);
+      if(target){
+        e.preventDefault();
+        target.scrollIntoView({behavior:"smooth", block:"start"});
+      }
+    });
+  });
+});
