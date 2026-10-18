@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420" role="img" aria-label="Balanza en equilibrio entre el tiempo de pantalla y el juego, el vínculo y el movimiento">
+  <rect width="700" height="420" rx="28" fill="#eaf5ef"/>
+  <circle cx="612" cy="76" r="52" fill="#f4c95d" opacity=".45"/>
+  <circle cx="78" cy="348" r="72" fill="#dceee7"/>
+
+  <rect x="285" y="358" width="130" height="14" rx="7" fill="#20302d"/>
+  <path d="M350 262 L316 358 L384 358 Z" fill="#1f6f5b"/>
+  <rect x="344" y="120" width="12" height="150" rx="6" fill="#20302d"/>
+  <rect x="150" y="114" width="400" height="12" rx="6" fill="#20302d"/>
+  <circle cx="350" cy="120" r="14" fill="#1f6f5b"/>
+
+  <path d="M200 126 V232" stroke="#20302d" stroke-width="3"/>
+  <path d="M500 126 V232" stroke="#20302d" stroke-width="3"/>
+  <rect x="140" y="232" width="120" height="11" rx="5.5" fill="#1f6f5b"/>
+  <rect x="440" y="232" width="120" height="11" rx="5.5" fill="#1f6f5b"/>
+
+  <rect x="172" y="162" width="56" height="70" rx="7" fill="#20302d"/>
+  <rect x="179" y="170" width="42" height="50" rx="3" fill="#cfe9dd"/>
+  <circle cx="200" cy="226" r="3.5" fill="#cfe9dd"/>
+
+  <circle cx="463" cy="215" r="17" fill="#e97861"/>
+  <rect x="486" y="196" width="36" height="36" rx="5" fill="#1f6f5b"/>
+  <rect x="528" y="190" width="28" height="42" rx="4" fill="#f4c95d"/>
+  <path d="M542 190 V232" stroke="#20302d" stroke-width="2.5" opacity=".35"/>
+
+  <g font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
+    <text x="200" y="286" font-size="19" font-weight="700" fill="#20302d">Pantalla</text>
+    <text x="200" y="310" font-size="15" fill="#63706d">contenido y propósito</text>
+    <text x="500" y="286" font-size="19" font-weight="700" fill="#20302d">Vida real</text>
+    <text x="500" y="310" font-size="15" fill="#63706d">juego · vínculo · movimiento</text>
+    <text x="350" y="402" font-size="18" font-weight="700" fill="#1f6f5b">Acompañar, no reemplazar.</text>
+  </g>
+</svg>
